@@ -65,3 +65,4 @@ In above example only user with `TALENTDAYS_ADMIN` or `TALENTDAYS_AREA` can acce
 Add `Absolvent\api\Http\Middleware\PreparePatchMultiPartForm` to `Absolvent\api\Http\Kernel::$middleware`
 
 Make sure that `PreparePatchMultiPartForm` is after `ValidatePostSize`
+
