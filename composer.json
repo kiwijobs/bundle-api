@@ -11,6 +11,7 @@
         "laravel/framework": "5.4.*",
         "league/fractal": "^0.15.0",
         "league/uri": "^5.0",
+        "riverline/multipart-parser": "^1.1",
         "symfony/yaml": "^3.2"
     },
     "require-dev": {
@@ -32,6 +33,12 @@
         }
     },
     "scripts": {
+        "build": [
+
+        ],
+        "clean": [
+
+        ],
         "post-root-package-install": [
             "php -r \"file_exists('.env') || copy('.env.example', '.env');\""
         ],
