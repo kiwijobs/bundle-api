@@ -34,7 +34,7 @@
     },
     "scripts": {
         "build": [
-
+            "composer install -o"
         ],
         "clean": [
 
