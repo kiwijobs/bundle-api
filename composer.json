@@ -4,6 +4,12 @@
     "keywords": [],
     "license": "MIT",
     "type": "project",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.absolvent.pl"
+        }
+    ],
     "require": {
         "php": ">=7.1.0",
         "absolvent/bundle-swagger": "^1.4.8",
