@@ -14,7 +14,7 @@
         "php": ">=7.1.0",
         "absolvent/bundle-swagger": "^1.8.1",
         "codecasts/laravel-jwt": "^0.8.5",
-        "laravel/framework": "5.4.*|5.6.*",
+        "laravel/framework": "5.6.*|5.7.*|5.8.*",
         "league/fractal": "^0.15.0|^0.17.0",
         "league/uri": "^5.0",
         "riverline/multipart-parser": "^1.1",
