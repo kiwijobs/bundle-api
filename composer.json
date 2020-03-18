@@ -23,7 +23,7 @@
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.4",
         "fzaninotto/faker": "~1.4",
-        "mockery/mockery": "0.9.*",
+        "mockery/mockery": "0.9.*"
     },
     "autoload": {
         "psr-4": {
