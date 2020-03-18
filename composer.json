@@ -16,7 +16,7 @@
         "laravel/framework": "5.8.*|6.*|7.*",
         "league/uri": "^5.0",
         "riverline/multipart-parser": "^1.1",
-        "symfony/yaml": "^3.2"
+        "symfony/yaml": "^3.2|^4.0"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.4",
