@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "kiwijobs/bundle-swagger": "^1.8.1",
+        "kiwijobs/bundle-swagger": "^1.8",
         "codecasts/laravel-jwt": "^0.8.5",
         "laravel/framework": "5.8.*|6.*|7.*",
         "league/fractal": "^0.15.0|^0.17.0",
