@@ -12,7 +12,7 @@
     ],
     "require": {
         "kiwijobs/bundle-swagger": "^1.8",
-        "laravel/framework": "5.8.*|6.*|7.*",
+        "laravel/framework": "5.8.*|6.*|7.*|8.*",
         "league/uri": "^5.0",
         "riverline/multipart-parser": "^1.1",
         "symfony/yaml": "^3.2|^4.0"
